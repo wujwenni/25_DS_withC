@@ -1,0 +1,6 @@
+﻿  3.c
+C:\Users\wooji\OneDrive\바탕 화면\2025\자료구조응용\DS과제\2022115570_장우진_DS_04\3\3.c(7,29): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wooji\OneDrive\바탕 화면\2025\자료구조응용\DS과제\2022115570_장우진_DS_04\3\3.c(8,26): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wooji\OneDrive\바탕 화면\2025\자료구조응용\DS과제\2022115570_장우진_DS_04\3\3.c(28,2): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\wooji\OneDrive\바탕 화면\2025\자료구조응용\DS과제\2022115570_장우진_DS_04\3\3.c(20,1): warning C4715: 'nfind': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  3.vcxproj -> C:\Users\wooji\OneDrive\바탕 화면\2025\자료구조응용\DS과제\2022115570_장우진_DS_04\x64\Debug\3.exe

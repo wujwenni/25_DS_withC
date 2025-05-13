@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wooji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2025\\\uC790\uB8CC\uAD6C\uC870\uC751\uC6A9\\DS\uACFC\uC81C\\2022115570_\uC7A5\uC6B0\uC9C4_DS_05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD911ADA-9A12-4A6F-8B12-31942DE83487}|3\\3.vcxproj|C:\\Users\\wooji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2025\\\uC790\uB8CC\uAD6C\uC870\uC751\uC6A9\\DS\uACFC\uC81C\\2022115570_\uC7A5\uC6B0\uC9C4_DS_05\\3\\3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD911ADA-9A12-4A6F-8B12-31942DE83487}|3\\3.vcxproj|solutionrelative:3\\3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C493C2-710E-4A65-B3A6-7BA61EC81038}|2\\2.vcxproj|C:\\Users\\wooji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2025\\\uC790\uB8CC\uAD6C\uC870\uC751\uC6A9\\DS\uACFC\uC81C\\2022115570_\uC7A5\uC6B0\uC9C4_DS_05\\2\\2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51C493C2-710E-4A65-B3A6-7BA61EC81038}|2\\2.vcxproj|solutionrelative:2\\2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2CD920-17CB-4C34-9E3D-33D55C21B659}|1\\1.vcxproj|C:\\Users\\wooji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2025\\\uC790\uB8CC\uAD6C\uC870\uC751\uC6A9\\DS\uACFC\uC81C\\2022115570_\uC7A5\uC6B0\uC9C4_DS_05\\1\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AE2CD920-17CB-4C34-9E3D-33D55C21B659}|1\\1.vcxproj|solutionrelative:1\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "2.c",
+              "DocumentMoniker": "C:\\Users\\wooji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2025\\\uC790\uB8CC\uAD6C\uC870\uC751\uC6A9\\DS\uACFC\uC81C\\2022115570_\uC7A5\uC6B0\uC9C4_DS_05\\2\\2.c",
+              "RelativeDocumentMoniker": "2\\2.c",
+              "ToolTip": "C:\\Users\\wooji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2025\\\uC790\uB8CC\uAD6C\uC870\uC751\uC6A9\\DS\uACFC\uC81C\\2022115570_\uC7A5\uC6B0\uC9C4_DS_05\\2\\2.c",
+              "RelativeToolTip": "2\\2.c",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAwwE0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-24T07:14:24.989Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "1.c",
+              "DocumentMoniker": "C:\\Users\\wooji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2025\\\uC790\uB8CC\uAD6C\uC870\uC751\uC6A9\\DS\uACFC\uC81C\\2022115570_\uC7A5\uC6B0\uC9C4_DS_05\\1\\1.c",
+              "RelativeDocumentMoniker": "1\\1.c",
+              "ToolTip": "C:\\Users\\wooji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2025\\\uC790\uB8CC\uAD6C\uC870\uC751\uC6A9\\DS\uACFC\uC81C\\2022115570_\uC7A5\uC6B0\uC9C4_DS_05\\1\\1.c",
+              "RelativeToolTip": "1\\1.c",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAB4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-24T05:34:31.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "3.c",
+              "DocumentMoniker": "C:\\Users\\wooji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2025\\\uC790\uB8CC\uAD6C\uC870\uC751\uC6A9\\DS\uACFC\uC81C\\2022115570_\uC7A5\uC6B0\uC9C4_DS_05\\3\\3.c",
+              "RelativeDocumentMoniker": "3\\3.c",
+              "ToolTip": "C:\\Users\\wooji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2025\\\uC790\uB8CC\uAD6C\uC870\uC751\uC6A9\\DS\uACFC\uC81C\\2022115570_\uC7A5\uC6B0\uC9C4_DS_05\\3\\3.c",
+              "RelativeToolTip": "3\\3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-24T05:34:45.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

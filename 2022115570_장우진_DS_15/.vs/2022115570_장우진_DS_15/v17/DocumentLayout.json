@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wooji\\Downloads\\2022115570_\uC7A5\uC6B0\uC9C4_DS_15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90705703-8D11-4BD5-98B7-5962E160073F}|2\\2.vcxproj|C:\\Users\\wooji\\Downloads\\2022115570_\uC7A5\uC6B0\uC9C4_DS_15\\2\\2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90705703-8D11-4BD5-98B7-5962E160073F}|2\\2.vcxproj|solutionrelative:2\\2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465C1808-935E-48AB-86F0-78A1525F7373}|1\\1.vcxproj|C:\\Users\\wooji\\Downloads\\2022115570_\uC7A5\uC6B0\uC9C4_DS_15\\1\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{465C1808-935E-48AB-86F0-78A1525F7373}|1\\1.vcxproj|solutionrelative:1\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2.c",
+              "DocumentMoniker": "C:\\Users\\wooji\\Downloads\\2022115570_\uC7A5\uC6B0\uC9C4_DS_15\\2\\2.c",
+              "RelativeDocumentMoniker": "2\\2.c",
+              "ToolTip": "C:\\Users\\wooji\\Downloads\\2022115570_\uC7A5\uC6B0\uC9C4_DS_15\\2\\2.c",
+              "RelativeToolTip": "2\\2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-07T05:50:59.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "1.c",
+              "DocumentMoniker": "C:\\Users\\wooji\\Downloads\\2022115570_\uC7A5\uC6B0\uC9C4_DS_15\\1\\1.c",
+              "RelativeDocumentMoniker": "1\\1.c",
+              "ToolTip": "C:\\Users\\wooji\\Downloads\\2022115570_\uC7A5\uC6B0\uC9C4_DS_15\\1\\1.c",
+              "RelativeToolTip": "1\\1.c",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-07T05:50:54.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

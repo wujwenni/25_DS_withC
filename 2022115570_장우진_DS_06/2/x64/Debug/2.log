@@ -1,0 +1,3 @@
+﻿  maze.c
+C:\Users\wooji\OneDrive\바탕 화면\2025\자료구조응용\DS과제\2022115570_장우진_DS_06\2\maze.c(70,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  2.vcxproj -> C:\Users\wooji\OneDrive\바탕 화면\2025\자료구조응용\DS과제\2022115570_장우진_DS_06\x64\Debug\2.exe

@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wooji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2025\\\uC790\uB8CC\uAD6C\uC870\uC751\uC6A9\\DS\uACFC\uC81C\\2022115570_\uC7A5\uC6B0\uC9C4_DS_09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1812A699-2816-47C2-B09B-C2FEFBA65BD7}|5\\5.vcxproj|C:\\Users\\wooji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2025\\\uC790\uB8CC\uAD6C\uC870\uC751\uC6A9\\DS\uACFC\uC81C\\2022115570_\uC7A5\uC6B0\uC9C4_DS_09\\5\\5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1812A699-2816-47C2-B09B-C2FEFBA65BD7}|5\\5.vcxproj|solutionrelative:5\\5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02E262D-ACB2-4BA2-838B-868574E40A77}|4\\4.vcxproj|C:\\Users\\wooji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2025\\\uC790\uB8CC\uAD6C\uC870\uC751\uC6A9\\DS\uACFC\uC81C\\2022115570_\uC7A5\uC6B0\uC9C4_DS_09\\4\\4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B02E262D-ACB2-4BA2-838B-868574E40A77}|4\\4.vcxproj|solutionrelative:4\\4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68B4827-1AA2-4C87-B67C-54E44573DBCA}|3\\3.vcxproj|C:\\Users\\wooji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2025\\\uC790\uB8CC\uAD6C\uC870\uC751\uC6A9\\DS\uACFC\uC81C\\2022115570_\uC7A5\uC6B0\uC9C4_DS_09\\3\\3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B68B4827-1AA2-4C87-B67C-54E44573DBCA}|3\\3.vcxproj|solutionrelative:3\\3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE85E2DF-C967-4097-AB56-AA395EF0D30D}|2\\2.vcxproj|C:\\Users\\wooji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2025\\\uC790\uB8CC\uAD6C\uC870\uC751\uC6A9\\DS\uACFC\uC81C\\2022115570_\uC7A5\uC6B0\uC9C4_DS_09\\2\\2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE85E2DF-C967-4097-AB56-AA395EF0D30D}|2\\2.vcxproj|solutionrelative:2\\2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F441DFA1-B36B-48D2-BD50-E2EB3EE61960}|1\\1.vcxproj|C:\\Users\\wooji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2025\\\uC790\uB8CC\uAD6C\uC870\uC751\uC6A9\\DS\uACFC\uC81C\\2022115570_\uC7A5\uC6B0\uC9C4_DS_09\\1\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F441DFA1-B36B-48D2-BD50-E2EB3EE61960}|1\\1.vcxproj|solutionrelative:1\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "5.c",
+              "DocumentMoniker": "C:\\Users\\wooji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2025\\\uC790\uB8CC\uAD6C\uC870\uC751\uC6A9\\DS\uACFC\uC81C\\2022115570_\uC7A5\uC6B0\uC9C4_DS_09\\5\\5.c",
+              "RelativeDocumentMoniker": "5\\5.c",
+              "ToolTip": "C:\\Users\\wooji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2025\\\uC790\uB8CC\uAD6C\uC870\uC751\uC6A9\\DS\uACFC\uC81C\\2022115570_\uC7A5\uC6B0\uC9C4_DS_09\\5\\5.c",
+              "RelativeToolTip": "5\\5.c",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAALcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-08T10:25:00.613Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "3.c",
+              "DocumentMoniker": "C:\\Users\\wooji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2025\\\uC790\uB8CC\uAD6C\uC870\uC751\uC6A9\\DS\uACFC\uC81C\\2022115570_\uC7A5\uC6B0\uC9C4_DS_09\\3\\3.c",
+              "RelativeDocumentMoniker": "3\\3.c",
+              "ToolTip": "C:\\Users\\wooji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2025\\\uC790\uB8CC\uAD6C\uC870\uC751\uC6A9\\DS\uACFC\uC81C\\2022115570_\uC7A5\uC6B0\uC9C4_DS_09\\3\\3.c",
+              "RelativeToolTip": "3\\3.c",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-07T08:31:24.291Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "4.c",
+              "DocumentMoniker": "C:\\Users\\wooji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2025\\\uC790\uB8CC\uAD6C\uC870\uC751\uC6A9\\DS\uACFC\uC81C\\2022115570_\uC7A5\uC6B0\uC9C4_DS_09\\4\\4.c",
+              "RelativeDocumentMoniker": "4\\4.c",
+              "ToolTip": "C:\\Users\\wooji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2025\\\uC790\uB8CC\uAD6C\uC870\uC751\uC6A9\\DS\uACFC\uC81C\\2022115570_\uC7A5\uC6B0\uC9C4_DS_09\\4\\4.c",
+              "RelativeToolTip": "4\\4.c",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAswEYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-07T12:02:57.936Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "1.c",
+              "DocumentMoniker": "C:\\Users\\wooji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2025\\\uC790\uB8CC\uAD6C\uC870\uC751\uC6A9\\DS\uACFC\uC81C\\2022115570_\uC7A5\uC6B0\uC9C4_DS_09\\1\\1.c",
+              "RelativeDocumentMoniker": "1\\1.c",
+              "ToolTip": "C:\\Users\\wooji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2025\\\uC790\uB8CC\uAD6C\uC870\uC751\uC6A9\\DS\uACFC\uC81C\\2022115570_\uC7A5\uC6B0\uC9C4_DS_09\\1\\1.c",
+              "RelativeToolTip": "1\\1.c",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-07T05:55:38.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "2.c",
+              "DocumentMoniker": "C:\\Users\\wooji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2025\\\uC790\uB8CC\uAD6C\uC870\uC751\uC6A9\\DS\uACFC\uC81C\\2022115570_\uC7A5\uC6B0\uC9C4_DS_09\\2\\2.c",
+              "RelativeDocumentMoniker": "2\\2.c",
+              "ToolTip": "C:\\Users\\wooji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2025\\\uC790\uB8CC\uAD6C\uC870\uC751\uC6A9\\DS\uACFC\uC81C\\2022115570_\uC7A5\uC6B0\uC9C4_DS_09\\2\\2.c",
+              "RelativeToolTip": "2\\2.c",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-07T07:29:45.516Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

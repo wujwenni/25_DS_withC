@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wooji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2025\\\uC790\uB8CC\uAD6C\uC870\uC751\uC6A9\\DS\uACFC\uC81C\\2022115570_\uC7A5\uC6B0\uC9C4_DS_04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15129515-5187-43BC-804F-C29BE7B6B0C9}|3\\3.vcxproj|C:\\Users\\wooji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2025\\\uC790\uB8CC\uAD6C\uC870\uC751\uC6A9\\DS\uACFC\uC81C\\2022115570_\uC7A5\uC6B0\uC9C4_DS_04\\3\\3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15129515-5187-43BC-804F-C29BE7B6B0C9}|3\\3.vcxproj|solutionrelative:3\\3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39AEF843-88FF-40CB-BC2B-2F414866E138}|2\\2.vcxproj|C:\\Users\\wooji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2025\\\uC790\uB8CC\uAD6C\uC870\uC751\uC6A9\\DS\uACFC\uC81C\\2022115570_\uC7A5\uC6B0\uC9C4_DS_04\\2\\2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39AEF843-88FF-40CB-BC2B-2F414866E138}|2\\2.vcxproj|solutionrelative:2\\2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{354115E0-F1F5-4A12-98AD-D05AAC618DD5}|1\\1.vcxproj|C:\\Users\\wooji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2025\\\uC790\uB8CC\uAD6C\uC870\uC751\uC6A9\\DS\uACFC\uC81C\\2022115570_\uC7A5\uC6B0\uC9C4_DS_04\\1\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{354115E0-F1F5-4A12-98AD-D05AAC618DD5}|1\\1.vcxproj|solutionrelative:1\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "3.c",
+              "DocumentMoniker": "C:\\Users\\wooji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2025\\\uC790\uB8CC\uAD6C\uC870\uC751\uC6A9\\DS\uACFC\uC81C\\2022115570_\uC7A5\uC6B0\uC9C4_DS_04\\3\\3.c",
+              "RelativeDocumentMoniker": "3\\3.c",
+              "ToolTip": "C:\\Users\\wooji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2025\\\uC790\uB8CC\uAD6C\uC870\uC751\uC6A9\\DS\uACFC\uC81C\\2022115570_\uC7A5\uC6B0\uC9C4_DS_04\\3\\3.c",
+              "RelativeToolTip": "3\\3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-19T05:47:52.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "2.c",
+              "DocumentMoniker": "C:\\Users\\wooji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2025\\\uC790\uB8CC\uAD6C\uC870\uC751\uC6A9\\DS\uACFC\uC81C\\2022115570_\uC7A5\uC6B0\uC9C4_DS_04\\2\\2.c",
+              "RelativeDocumentMoniker": "2\\2.c",
+              "ToolTip": "C:\\Users\\wooji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2025\\\uC790\uB8CC\uAD6C\uC870\uC751\uC6A9\\DS\uACFC\uC81C\\2022115570_\uC7A5\uC6B0\uC9C4_DS_04\\2\\2.c",
+              "RelativeToolTip": "2\\2.c",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-19T05:47:37.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "1.c",
+              "DocumentMoniker": "C:\\Users\\wooji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2025\\\uC790\uB8CC\uAD6C\uC870\uC751\uC6A9\\DS\uACFC\uC81C\\2022115570_\uC7A5\uC6B0\uC9C4_DS_04\\1\\1.c",
+              "RelativeDocumentMoniker": "1\\1.c",
+              "ToolTip": "C:\\Users\\wooji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2025\\\uC790\uB8CC\uAD6C\uC870\uC751\uC6A9\\DS\uACFC\uC81C\\2022115570_\uC7A5\uC6B0\uC9C4_DS_04\\1\\1.c",
+              "RelativeToolTip": "1\\1.c",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-19T05:47:28.191Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

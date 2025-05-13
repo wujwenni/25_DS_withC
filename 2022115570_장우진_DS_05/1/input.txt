@@ -1,0 +1,21 @@
+push 1 jung
+push 23 hong
+pop
+push 3 kim
+sprint
+push 4 song
+pop
+pop
+push 5 lee
+push 6 min
+push 7 oh
+push 8 seo
+sprint
+pop
+woojin
+sprint
+pop
+push 9 r
+push 10 j
+push 11 k
+sprint

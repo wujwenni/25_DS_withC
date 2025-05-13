@@ -1,0 +1,4 @@
+﻿  1.c
+C:\Users\wooji\Downloads\2022115570_장우진_DS_02\1\1.c(66,3): warning C4033: 'func4'은(는) 값을 반환해야 합니다.
+C:\Users\wooji\Downloads\2022115570_장우진_DS_02\1\1.c(69,1): warning C4715: 'func4': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  1.vcxproj -> C:\Users\wooji\Downloads\2022115570_장우진_DS_02\x64\Debug\1.exe

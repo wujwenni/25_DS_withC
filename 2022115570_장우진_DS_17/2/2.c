@@ -11,25 +11,34 @@ typedef struct vtxNode {
 	vPointer link;
 }vtxNode;
 
+typedef struct queue* queuePointer;
+typedef struct queue {
+	int vertex;
+	queuePointer link;
+};
+
 vPointer first[MAX];
 int mark[MAX];
 int vertex;
 int edge;
+queuePointer front, rear;
 FILE* fp;
 
 void makeUndirectedGraph();
 void insert(int v1, int v2);
 void AdjListPrint(int vertex);
-void DepthFirstSearch(int n);
+void BreadthFirstSearch(int n);
 void markInit();
-void DoAllDFS(int vertex);
+void DoAllBFS(int vertex);
+void addq(int n);
+int ddelq();
 
 int main() {
 	fp = fopen("input.txt", "r");
 	fscanf(fp, "%d %d", &vertex, &edge);
 	makeUndirectedGraph();
 	AdjListPrint(vertex);
-	DoAllDFS(vertex);
+	DoAllBFS(vertex);
 	return 0;
 }
 
@@ -79,18 +88,23 @@ void AdjListPrint(int vertex)
 	}
 }
 
-void DepthFirstSearch(int n)
+void BreadthFirstSearch(int n)
 {
 	vPointer w;
-	mark[n] = TRUE;
 	printf("%4d", n);
-	for (w = first[n]; w; w = w->link)
-	{
-		if (!mark[w->val])
+	mark[n] = TRUE;
+	addq(n);
+	while (front) {
+		n = ddelq();
+		for (w = first[n]; w; w = w->link)
 		{
-			DepthFirstSearch(w->val);
+			if (!mark[w->val])
+			{
+				printf("%4d", w->val);
+				addq(w->val);
+				mark[w->val] = TRUE;
+			}
 		}
-		//if (n == vertex - 1) break;
 	}
 }
 
@@ -102,13 +116,45 @@ void markInit()
 	}
 }
 
-void DoAllDFS(int vertex)
+void DoAllBFS(int vertex)
 {
-	printf("DepthFirst Search\n");
+	printf("BreadthFirst Search\n");
 	for (int i = 0; i < vertex; i++)
 	{
-		printf("\ndfs[%d] : ", i);
-		DepthFirstSearch(i);
+		printf("\nbfs[%d] : ", i);
+		BreadthFirstSearch(i);
 		markInit();
 	}
+}
+
+void addq(int n)
+{
+	queuePointer node = malloc(sizeof(*node));
+	node->vertex = n;
+	node->link = NULL;
+	if (rear == NULL)
+	{
+		front = rear = node;
+	}
+	else
+	{
+		rear->link = node;
+		rear = node;
+	}
+
+}
+
+int ddelq()
+{
+	if (front == NULL)
+	{
+		return -1;
+	}
+	
+	int val = front->vertex;
+	queuePointer temp = front;
+	front = front->link;
+	if (front == NULL) rear = NULL;
+	
+	return val;
 }

@@ -22,14 +22,14 @@ void insert(int v1, int v2);
 void AdjListPrint(int vertex);
 void DepthFirstSearch(int n);
 void markInit();
-void DoAllDFS(int vertex);
+void connected();
 
 int main() {
 	fp = fopen("input.txt", "r");
 	fscanf(fp, "%d %d", &vertex, &edge);
 	makeUndirectedGraph();
 	AdjListPrint(vertex);
-	DoAllDFS(vertex);
+	connected();
 	return 0;
 }
 
@@ -90,25 +90,21 @@ void DepthFirstSearch(int n)
 		{
 			DepthFirstSearch(w->val);
 		}
-		//if (n == vertex - 1) break;
 	}
 }
 
-void markInit()
+void connected()
 {
+	printf("\nConnected Components\n");
+	int count = 0;
 	for (int i = 0; i < vertex; i++)
 	{
-		mark[i] = FALSE;
-	}
-}
-
-void DoAllDFS(int vertex)
-{
-	printf("DepthFirst Search\n");
-	for (int i = 0; i < vertex; i++)
-	{
-		printf("\ndfs[%d] : ", i);
-		DepthFirstSearch(i);
-		markInit();
+		if (!mark[i])
+		{
+			count++;
+			printf("connected component %d: ", count);
+			DepthFirstSearch(i);
+			printf("\n");
+		}
 	}
 }
